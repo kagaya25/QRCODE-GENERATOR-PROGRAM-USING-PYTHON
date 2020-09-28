@@ -3,7 +3,6 @@ qr=qrcode.QRCode(
 	version=1,
 	box_size=5,
 	border=2
-
 	)
 data="https://kagayajohn.com/"
 qr.add_data(data)
